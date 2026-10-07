@@ -9,7 +9,6 @@
 - :student: Computer Science at [UCLM](https://www.uclm.es/)
 - :student: Big Data Analytics at [UC3M](https://www.uc3m.es/Inicio)
 - :technologist: Currently Software Engineer I at [Affirm](https://www.affirm.com/)
-- 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 - ✉️ You can shoot me an email at mohamed.essalhi.ahamyan@gmail.com! I'll try to respond as soon as I can.
 <br>
 
